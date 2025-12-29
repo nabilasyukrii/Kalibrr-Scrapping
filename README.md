@@ -42,6 +42,15 @@ We focused on answering the following business questions through data visualizat
 
 ---
 
+## 📊 Project Artifacts
+
+We have documented the analysis process and results. You can view the full presentation below:
+
+| Type | Link/File | Description |
+| :--- | :--- | :--- |
+| **📄 PDF Slides** | **[View Presentation (PDF)](./kalibrr.pdf)** | *Recommended.* Full presentation deck with visualization results. |
+| **💻 Source Code** | **[R Script & Data](./)** | Access the raw code and aggregated data in this repository. |
+---
 ## 📂 Data Structure
 The raw data collected is stored in JSON format within MongoDB. Below is a sample document:
 
@@ -56,3 +65,4 @@ The raw data collected is stored in JSON format within MongoDB. Below is a sampl
   "Level": "Mid-Senior Level Manager",
   "Deadline": "06 July 2025"
 }
+
